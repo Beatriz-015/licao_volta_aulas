@@ -1,0 +1,16 @@
+Body {
+    background-color: bisque;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-style: italic;
+}
+
+h2 {
+    font-size: 1.6rem;
+    font-weight: 100;
+}
